@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6q0067/T/v1
+canonical_location: https://kanripo.org/bkk/KR6q0067/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑞州洞山良价禪師語錄
+  identifiers:
+    krp: KR6q0067
+    cbeta: T47n1986B
+    cbeta_old_id: T47n1986B
+    authorityid: CA0000787
+    json_key: T1986B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1986B.xml
+    old_id: T47n1986B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0067_000-T.yaml, hash: 'sha256:73ab5e6e6f7a8c6354a78449e2cf69e8ec6b1ef3e008c3c443fd71eb8d49b067'}
+  - {seq: 1, filename: KR6q0067_001-T.yaml, hash: 'sha256:728ee3a0c134307ff5c0083720dfa8383572fb2f4bb07bce0d6a2aec3207e7ec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0067_000-T.markers.yaml, hash: 'sha256:ed995f95368abfc85174894074888eb73f16b3684f6eb39931c7f3aa79a09f14'}
+  - {seq: 1, role: markers, filename: assets/KR6q0067_001-T.markers.yaml, hash: 'sha256:89cbcaac6869760506df5a55ec54748d568201beb6ab77186d4f997af3fbf080'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0067_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10586
+  label: 瑞州洞山良价禪師語錄
+  type: juan
+  level: 1
+hash: sha256:03f3a96a21c432522c30ee473dfef590588ad456b55802cbc208ae14c9434dd4

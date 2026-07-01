@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0067/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑞州洞山良价禪師語錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1986B.xml
+    old_id: T47n1986B
+hash: sha256:73ab5e6e6f7a8c6354a78449e2cf69e8ec6b1ef3e008c3c443fd71eb8d49b067
