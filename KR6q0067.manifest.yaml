@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0067_000.yaml, hash: 'sha256:73ab5e6e6f7a8c6354a78449e2cf69e8ec6b1ef3e008c3c443fd71eb8d49b067'}
-  - {seq: 1, filename: KR6q0067_001.yaml, hash: 'sha256:29e47e6fde4dd60c140f662af6f6a4d7c2c475541a54319c1b4dba32eabb8a45'}
+  - {seq: 1, filename: KR6q0067_001.yaml, hash: 'sha256:728ee3a0c134307ff5c0083720dfa8383572fb2f4bb07bce0d6a2aec3207e7ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0067_001.markers.yaml, hash: 'sha256:a4d99fba2e7245835e181dbf57d9522232301dfa09fb5edcb99e109f6a047e63'}
+  - {seq: 0, role: markers, filename: assets/KR6q0067_000.markers.yaml, hash: 'sha256:5b1f2c1247055729ef898ed783f0c6aca101f30a04e36db975782ae66a997289'}
+  - {seq: 1, role: markers, filename: assets/KR6q0067_001.markers.yaml, hash: 'sha256:b4b90b0bcc991c5c4cee45afdef2c52858e9d1777b6fc5e30ea4448b9e860166'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 瑞州洞山良价禪師語錄
   type: juan
   level: 1
-hash: sha256:9660912d95c699df591a6bb19c3964c14ae70702e79e6ce6478f00547c37e226
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f0fbea8e58635e4dc42e50540d2b06e8e5b121b7d4891ff8fed59d7bdb6be8f1
