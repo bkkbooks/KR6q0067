@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0067/v1
 canonical_location: https://kanripo.org/bkk/KR6q0067/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瑞州洞山良价禪師語錄
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0067_000.yaml, hash: 'sha256:73ab5e6e6f7a8c6354a78449e2cf69e8ec6b1ef3e008c3c443fd71eb8d49b067'}
-  - {seq: 1, filename: KR6q0067_001.yaml, hash: 'sha256:728ee3a0c134307ff5c0083720dfa8383572fb2f4bb07bce0d6a2aec3207e7ec'}
+  - {seq: 1, filename: KR6q0067_001.yaml, hash: 'sha256:092733bd3e41947fa10c084115605f8aaf886a03b7d2f66447f5c69d06639636'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0067_000.markers.yaml, hash: 'sha256:5b1f2c1247055729ef898ed783f0c6aca101f30a04e36db975782ae66a997289'}
-  - {seq: 1, role: markers, filename: assets/KR6q0067_001.markers.yaml, hash: 'sha256:b4b90b0bcc991c5c4cee45afdef2c52858e9d1777b6fc5e30ea4448b9e860166'}
+  - {seq: 1, role: markers, filename: assets/KR6q0067_001.markers.yaml, hash: 'sha256:b6114746a8e7cb29d81b09f1836d3c2724497ba47e028cc8382b7b58465b4667'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 瑞州洞山良价禪師語錄
   type: juan
   level: 1
-hash: sha256:f0fbea8e58635e4dc42e50540d2b06e8e5b121b7d4891ff8fed59d7bdb6be8f1
+hash: sha256:5a6ffe434b6906182b74c12bf072e77a32b7bd48142d9c48a575fd1f97f7f4b9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
